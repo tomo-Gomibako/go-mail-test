@@ -1,0 +1,4 @@
+export GMAIL_USER='example@gmail.com'
+export GMAIL_PASSWORD='********'
+export MAIL_DISPLAY_NAME='Example Name'
+export MAIL_FROM='abc@example.com'
